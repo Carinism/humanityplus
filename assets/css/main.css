@@ -3117,7 +3117,7 @@
 				background-image: linear-gradient(to top, rgba(0, 0, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 				background-size: auto, cover;
 				background-position: center, center;
-				margin-bottom: -6.5em;
+				margin-bottom: -110px;
 			}
 
 		}
@@ -3227,7 +3227,7 @@
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 			background-size: auto, cover;
 			background-position: center, 0% 30%;
-			margin-bottom: -6.5em;
+			margin-bottom: -110px;
 		}
 
 	}
@@ -3250,7 +3250,7 @@
 	@media screen and (max-width: 736px) {
 
 		#wrapper > header {
-			padding: 6.5em 2em 3em 2em ;
+			padding: 110px 2em 3em 2em ;
 			background-size: auto, 125%;
 			margin-bottom: -2.5em;
 		}
@@ -3267,7 +3267,7 @@
 
 	.wrapper {
 		background-color: #2e3141;
-		margin: 6.5em 0;
+		margin: 110px 0;
 		position: relative;
 	}
 
@@ -3280,14 +3280,14 @@
 			background-size: 100% 100%;
 			content: '';
 			display: block;
-			height: 6.5em;
+			height: 110px;
 			position: absolute;
 			width: 100%;
 		}
 
 		.wrapper:before {
 			left: 0;
-			top: -6.5em;
+			top: -110px;
 		}
 
 		.wrapper:after {
@@ -3295,7 +3295,7 @@
 			-webkit-transform: scaleY(-1);
 			-ms-transform: scaleY(-1);
 			transform: scaleY(-1);
-			bottom: -6.5em;
+			bottom: -110px;
 			left: 0;
 		}
 
@@ -3360,11 +3360,11 @@
 			}
 
 		.wrapper.spotlight {
-			background-color: #4c5c96;
+			background-color: #abcd01;
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%234c5c96;' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23abcd01;' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.spotlight .inner {
@@ -3619,8 +3619,8 @@
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 			background-size: auto, cover;
 			background-position: center, center;
-			margin-top: -6.5em;
-			padding-top: 6.5em;
+			margin-top: -110px;
+			padding-top: 110px;
 		}
 
 	}
