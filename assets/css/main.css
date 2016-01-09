@@ -1727,7 +1727,6 @@
 				-webkit-transition: background-color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out;
-				border-radius: 100%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
 				content: '\f105';
 				display: inline-block;
