@@ -1996,7 +1996,8 @@
 
 	select option {
 		color: #ffffff;
-		background: #2e3141;
+		background: #0a374c;
+
 	}
 
 	input[type="text"],
@@ -2071,7 +2072,8 @@
 			background: #ffffff;
 			border-color: #ffffff;
 			content: '\f00c';
-			color: #2e3141;
+			color: #0a374c
+
 		}
 
 		input[type="checkbox"]:focus + label:before,
@@ -3112,7 +3114,8 @@
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #2e3141;
+				background-color: #0a374c
+
 				margin-bottom: -110px;
 			}
 
@@ -3219,7 +3222,8 @@
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
-			background-color: #2e3141;
+			background-color: #0a374c
+
 			margin-bottom: -110px;
 		}
 
@@ -3626,7 +3630,8 @@
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			background-color: #2e3141;
+			background-color: #0a374c
+
 			margin-top: -110px;
 			padding-top: 110px;
 		}
